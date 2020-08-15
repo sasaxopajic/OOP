@@ -25,7 +25,7 @@ List& List::operator=(const List& rl) {
 		for (int i = 1; i <= rl.noEl; i++) {
 			addEl(i, rl.readEl(i));
 		}
-		return *this; // vraca pokazivac zasto ste radi sa adresama elemenata liste
+		return *this; // vraca pokazivac zato se radi sa adresama elemenata liste ??
 	}
 }
 
