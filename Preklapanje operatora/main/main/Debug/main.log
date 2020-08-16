@@ -1,0 +1,3 @@
+﻿  dinstring.cpp
+F:\OP\Preklapanje operatora\main\main\dinstring.cpp(66): warning C4715: 'DinString::operator=': not all control paths return a value
+  main.vcxproj -> F:\OP\Preklapanje operatora\main\Debug\main.exe
