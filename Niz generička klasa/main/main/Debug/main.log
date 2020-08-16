@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\OP\Niz generička klasa\main\main\niz.hpp(43): warning C4715: 'Niz<int,10>::operator=': not all control paths return a value
+  main.vcxproj -> F:\OP\Niz generička klasa\main\Debug\main.exe
