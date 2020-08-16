@@ -1,0 +1,5 @@
+﻿  intarray.cpp
+  main.cpp
+  Generating Code...
+F:\OP\Preklapanje operatora 2\main\main\intarray.cpp(52): warning C4715: 'IntArray::operator=': not all control paths return a value
+  main.vcxproj -> F:\OP\Preklapanje operatora 2\main\Debug\main.exe
