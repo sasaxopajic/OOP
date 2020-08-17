@@ -1,4 +1,5 @@
-﻿  list.cpp
+﻿  intstack.cpp
+  list.cpp
   main.cpp
   Generating Code...
 F:\OP\Lista\main\main\list.cpp(30): warning C4715: 'List::operator=': not all control paths return a value
