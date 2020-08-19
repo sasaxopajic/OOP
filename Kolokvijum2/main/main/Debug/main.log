@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\OP\Kolokvijum2\main\main\main.cpp(16,75): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.vcxproj -> F:\OP\Kolokvijum2\main\Debug\main.exe
